@@ -3,17 +3,17 @@
     <Description about="urn:mozilla:install-manifest">
         <em:id>feedback@inin.com</em:id>
         <em:type>2</em:type>
-        <em:name>Screensharing Helper for PureCloud</em:name>
-        <em:description>Helper utility for enabling screensharing</em:description>
         <em:version>1.0</em:version>
         <em:bootstrap>true</em:bootstrap>
         <em:creator>&amp;yet</em:creator>
         <em:targetApplication>
             <Description>
-                <em:id>toolkit@mozilla.org</em:id>
+                <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
                 <em:minVersion>33.0</em:minVersion>
                 <em:maxVersion>36.*</em:maxVersion>
             </Description>
         </em:targetApplication>
+        <em:name>Screensharing Helper for PureCloud</em:name>
+        <em:description>Helper utility for enabling screensharing</em:description>
     </Description>
 </RDF>
