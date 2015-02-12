@@ -15,6 +15,13 @@
         </em:targetApplication>
         <em:localized>
             <Description>
+                <em:locale>en-US</em:locale>
+                <em:name>Screensharing Helper for PureCloud</em:name>
+                <em:description>Helper utility for enabling screensharing</em:description>
+            </Description>
+        </em:localized>
+        <em:localized>
+            <Description>
                 <em:locale>es</em:locale>
                 <em:name>Ayuda para compartir pantallas en PureCloud</em:name>
                 <em:description>Utilidad auxiliar para permitir compartir pantallas en PureCloud</em:description>
