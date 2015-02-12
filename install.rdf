@@ -13,6 +13,55 @@
                 <em:maxVersion>36.*</em:maxVersion>
             </Description>
         </em:targetApplication>
+        <em:localized>
+            <Description>
+                <em:locale>en-US</em:locale>
+                <em:name>Screensharing Helper for PureCloud</em:name>
+                <em:description>Helper utility for enabling screensharing</em:description>
+            </Description>
+        </em:localized>
+        <em:localized>
+            <Description>
+                <em:locale>es</em:locale>
+                <em:name>Ayuda para compartir pantallas en PureCloud</em:name>
+                <em:description>Utilidad auxiliar para permitir compartir pantallas en PureCloud</em:description>
+            </Description>
+        </em:localized>
+        <em:localized>
+            <Description>
+                <em:locale>de</em:locale>
+                <em:name>PureCloud Hilfsprogramm für die Bildschirmfreigabe</em:name>
+                <em:description>Hilfsprogramm zur Aktivierung der Bildschirmfreigabe in PureCloud</em:description>
+            </Description>
+        </em:localized>
+        <em:localized>
+            <Description>
+                <em:locale>fr</em:locale>
+                <em:name>Aide sur le partage d'écran dans PureCloud</em:name>
+                <em:description>Utilitaire d'aide pour activer le partage d'écran dans PureCloud</em:description>
+            </Description>
+        </em:localized>
+        <em:localized>
+            <Description>
+                <em:locale>ja</em:locale>
+                <em:name>PureCloud 画面共有ヘルパー</em:name>
+                <em:description>ヘルパーは PureCloud で画面共有を可能にするユーティリティです。</em:description>
+            </Description>
+        </em:localized>
+        <em:localized>
+            <Description>
+                <em:locale>nl</em:locale>
+                <em:name>PureCloud Helper voor schermdeling</em:name>
+                <em:description>Helper-programma voor het inschakelen van schermdeling in PureCloud</em:description>
+            </Description>
+        </em:localized>
+        <em:localized>
+            <Description>
+                <em:locale>pt-BR</em:locale>
+                <em:name>Auxiliar para Compartilhamento de Tela do PureCloud</em:name>
+                <em:description>Utilitário auxiliar para permitir o compartilhamento de tela no PureCloud</em:description>
+            </Description>
+        </em:localized>
         <em:name>Screensharing Helper for PureCloud</em:name>
         <em:description>Helper utility for enabling screensharing</em:description>
     </Description>
